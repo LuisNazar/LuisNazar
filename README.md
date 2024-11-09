@@ -20,9 +20,8 @@
 [<img src="https://img.icons8.com/doodle/48/000000/facebook-circled.png"/>][facebook]
 -->
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--
 ### Mis últimos artículos
