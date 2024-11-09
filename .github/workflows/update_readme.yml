@@ -3,15 +3,12 @@ name: Update README
 on:
   schedule:
     - cron: '0 */12 * * *' # Cada 12 horas
-  workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
-    name: Update Profile README
-    
     steps:
-      - uses: actions/checkout@v4.2.2
-      
+      - name: Checkout repository
+        uses: actions/checkout@v2
       - name: Update README with recent activity
-        uses: LuisNazar/LuisNazar@main
+        uses: LuisNazar/LuisNazar@main # Reemplaza con tu información
