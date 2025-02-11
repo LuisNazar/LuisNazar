@@ -16,7 +16,8 @@ I'm Adrian from Australia, and I do content on Design and Development. I really 
 ### Vías de contacto
 
 [![website](https://img.shields.io/badge/LNAZAR.COM-LINK-blue?style=for-the-badge)][website]  
-[![xcom](https://img.shields.io/twitter/follow/aminespinoza?color=blue&label=s%C3%ADgueme%20en%20Twitter&style=for-the-badge)][xcom]
+[![xcom](https://img.shields.io/badge/Sigueme-black?style=for-the-badge&logo=x&logoSize=auto)][xcom]
+
 
 [<img src="https://img.icons8.com/doodle/48/000000/youtube--v1.png"/>][youtube]
 [<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
